@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Sudhir Kumar](@sudhirln92)
 - 👀 I’m interested in machine learning development
-- 🌱 I’m currently learning deep learning, dask
+- 🌱 I’m currently learning deep learning, pyspark
 - 💞️ I’m looking to collaborate on machine learning model development
 - 📫 How to reach me sudhirln92@gmail.com
  
