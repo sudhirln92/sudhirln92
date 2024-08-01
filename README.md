@@ -2,14 +2,9 @@
 - 👀 I’m interested in machine learning development
 - 🌱 I’m currently learning deep learning, pyspark
 - 💞️ I’m looking to collaborate on machine learning model development
-- 📫 How to reach me sudhirln92@gmail.com
- 
-<!---
-sudhirln92/sudhirln92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me sudhirln92@gmail.com ✨
 
-# Badges
+# Badges ✨
 <p align="center">
     <img src="https://github.com/sudhirln92/sudhirln92/blob/main/aws-cloud-quest-cloud-practitioner.png?raw=true" alt="AWS Cloud" width="150" height="150"/>
     <img src="https://github.com/sudhirln92/sudhirln92/blob/main/aws-knowledge-cloud-essentials.png?raw=true" alt="AWS Cloud" width="150" height="150"/>
@@ -17,12 +12,15 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github.com/sudhirln92/sudhirln92/blob/main/koreai_certified.jpeg?raw=true" alt="Kore AI" width="150" height="120"/>
 </p>
 
+# Profile ✨
+* [Kaggle](https://www.kaggle.com/sudhirnl7)
+* [Linkedin](https://www.linkedin.com/in/sudhirln92/)
 * [Credly](https://www.credly.com/users/sudhirln92)
 * [GCP](https://www.cloudskillsboost.google/public_profiles/f6562b3c-e66c-4321-bd35-0dcc49af8956)
 * [AWS]()
 * [Azure]()
 
-# Main Certificates
+# Certificates ✨
 
 <p align="center">
     <img src="https://github.com/sudhirln92/sudhirln92/blob/main/Kore.AI-Basic-Training-2021.jpg?raw=true" alt="Kore.AI" width="400" height="250"/>
@@ -35,20 +33,7 @@ You can click the Preview link to take a look at your changes.
 | Basic Kore.AI Chabot Developer | Basic Kore.AI Chatbot Developer Certificate | Kore.AI |  [kore.ai](https://github.com/sudhirln92/sudhirln92/blob/main/Kore.AI-Basic-Training-2021.jpg)| 2021-2023 |
 | Advanced Kore.AI Chabot Developer | Advanced Kore.AI Chatbot Developer Certificate | Kore.AI |  [kore.ai](https://github.com/sudhirln92/sudhirln92/blob/main/Kore.AI-Adavanced-Training-2021.jpg)| 2021-2023 |
 
-# Badges
-<p align="center">
-    <img src="https://github.com/sudhirln92/sudhirln92/blob/main/aws-cloud-quest-cloud-practitioner.png?raw=true" alt="AWS Cloud" width="150" height="150"/>
-    <img src="https://github.com/sudhirln92/sudhirln92/blob/main/aws-knowledge-cloud-essentials.png?raw=true" alt="AWS Cloud" width="150" height="150"/>
-    <img src="https://github.com/sudhirln92/sudhirln92/blob/main/aws-educate-introduction-to-generative-ai.png?raw=true" alt="AWS Cloud" width="150" height="150"/>
-    
-</p>
-
-* [Credly](https://www.credly.com/users/sudhirln92)
-* [GCP](https://www.cloudskillsboost.google/public_profiles/f6562b3c-e66c-4321-bd35-0dcc49af8956)
-* [AWS]()
-* [Azure]()
-
-# Internal Certificates
+# Internal Certificates ✨
 | Certifications | Description| Institute | Year|
 | ------ | ------ | ------ |----- |
 | AWS Cloud Practioner Essentials | AWS Cloud Basic Training | AWS | 2023 |
