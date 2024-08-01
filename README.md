@@ -12,15 +12,16 @@
     <img src="https://github.com/sudhirln92/sudhirln92/blob/main/Kore.ai-certified.jpg?raw=true" alt="Kore AI" width="150" height="120"/>
 </p>
 
-# Profile ✨
+# Profiles ✨
 * [Kaggle](https://www.kaggle.com/sudhirnl7)
 * [Linkedin](https://www.linkedin.com/in/sudhirln92/)
 * [Credly](https://www.credly.com/users/sudhirln92)
 * [GCP](https://www.cloudskillsboost.google/public_profiles/f6562b3c-e66c-4321-bd35-0dcc49af8956)
+* [Azure](https://learn.microsoft.com/en-gb/users/sudhirln92)
 * [AWS]()
-* [Azure]()
 
 # Certificates ✨
+
 <p align="center">
     <img src="https://github.com/sudhirln92/sudhirln92/blob/main/Kore.AI-Basic-Training-2021.jpg?raw=true" alt="Kore.AI" width="400" height="250"/>
     <img src="https://github.com/sudhirln92/data-science-courses/blob/master/Certifications/Kore.AI-Adavanced-Training-2021.jpg?raw=true" alt="Kore.AI" width="400" height="250"/>
