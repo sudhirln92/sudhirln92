@@ -1,15 +1,15 @@
-- 👋 Hi, I’m [Sudhir Kumar](@sudhirln92)
+- 👋 Hi, I’m [Sudhir Kumar](@sudhirln92) ✨
 - 👀 I’m interested in machine learning development
 - 🌱 I’m currently learning deep learning, pyspark
 - 💞️ I’m looking to collaborate on machine learning model development
-- 📫 How to reach me sudhirln92@gmail.com ✨
+- 📫 How to reach me sudhirln92@gmail.com
 
 # Badges ✨
 <p align="center">
     <img src="https://github.com/sudhirln92/sudhirln92/blob/main/aws-cloud-quest-cloud-practitioner.png?raw=true" alt="AWS Cloud" width="150" height="150"/>
     <img src="https://github.com/sudhirln92/sudhirln92/blob/main/aws-knowledge-cloud-essentials.png?raw=true" alt="AWS Cloud" width="150" height="150"/>
     <img src="https://github.com/sudhirln92/sudhirln92/blob/main/aws-educate-introduction-to-generative-ai.png?raw=true" alt="AWS Cloud" width="150" height="150"/>
-    <img src="https://github.com/sudhirln92/sudhirln92/blob/main/koreai_certified.jpeg?raw=true" alt="Kore AI" width="150" height="120"/>
+    <img src="https://github.com/sudhirln92/sudhirln92/blob/main/Kore.ai-certified.jpg?raw=true" alt="Kore AI" width="150" height="120"/>
 </p>
 
 # Profile ✨
