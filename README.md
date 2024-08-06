@@ -24,7 +24,7 @@
 
 <p align="center">
     <img src="https://github.com/sudhirln92/sudhirln92/blob/main/Kore.AI-Basic-Training-2021.jpg?raw=true" alt="Kore.AI" width="400" height="250"/>
-    <img src="https://github.com/sudhirln92/data-science-courses/blob/master/Certifications/Kore.AI-Adavanced-Training-2021.jpg?raw=true" alt="Kore.AI" width="400" height="250"/>
+    <img src="https://github.com/sudhirln92/sudhirln92/blob/main/Kore.AI-Adavanced-Training-2021.jpg?raw=true" alt="Kore.AI" width="400" height="250"/>
 </p>
 
 | Certifications | Description| Institute | Link | Year|
@@ -49,6 +49,3 @@
 | GCP Essentials | GCP Training | Atos | 2023 |
 | Mongo DB | Mongo DB Training | Atos | 2021 |
 | Docker | Docker Training | Atos | 2022 |
-
-
-
