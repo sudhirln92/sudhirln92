@@ -1,7 +1,6 @@
 - 👋 Hi, I’m [Sudhir Kumar](@sudhirln92) ✨
-- 👀 I’m interested in machine learning development
-- 🌱 I’m currently learning deep learning, pyspark
-- 💞️ I’m looking to collaborate on machine learning model development
+- 👀 I’m interested in machine learning, deep learning and Gen AI development
+- 🌱 I’m currently learning Gen AI.
 - 📫 How to reach me sudhirln92@gmail.com
 
 ## 🛠️ Technical Skills  
