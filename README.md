@@ -1,6 +1,6 @@
 - 👋 Hi, I’m [Sudhir Kumar](@sudhirln92) ✨
 - 👀 I’m interested in machine learning, deep learning and Gen AI development
-- 🌱 I’m currently learning Gen AI.
+- 🌱 I’m currently learning Gen AI and MLOps
 - 📫 How to reach me sudhirln92@gmail.com
 
 ## 🛠️ Technical Skills  
