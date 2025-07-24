@@ -16,9 +16,15 @@
 
 # Badges ✨              
 <p align="center">
-    <img src="https://github.com/sudhirln92/sudhirln92/blob/main/aws-cloud-quest-cloud-practitioner.png?raw=true" alt="AWS Cloud" width="150" height="150"/>   
-    <img src="https://github.com/sudhirln92/sudhirln92/blob/main/aws-knowledge-cloud-essentials.png?raw=true" alt="AWS Cloud" width="150" height="150"/>
-    <img src="https://github.com/sudhirln92/sudhirln92/blob/main/aws-educate-introduction-to-generative-ai.png?raw=true" alt="AWS Cloud" width="150" height="150"/>
+    <a href="https://www.credly.com/badges/0ed74af8-3d45-47e6-bfa5-f35907333f69/public_url" target="_blank">
+      <img src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png?raw=true" alt="Cloud Digital Leader" width="150" height="130"/>
+    </a>
+    <a href="https://www.credly.com/badges/8aa0250d-1e31-4977-9a10-30a58dc249c3/public_url" target="_blank">
+      <img src="https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png" alt="AWS Cloud" width="150" height="130"/>
+    </a>
+    <a href="https://www.credly.com/badges/4db50454-b90c-477e-ae50-436b070bfecd/public_url" target="_blank">
+      <img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="AWS Cloud" width="150" height="130"/>
+    </a>
     <img src="https://github.com/sudhirln92/sudhirln92/blob/main/Kore.ai-certified.jpg?raw=true" alt="Kore AI" width="150" height="120"/>
 </p>
 
@@ -39,11 +45,11 @@
 
 | Certifications | Description| Institute | Link | Year|
 | ------ | ------ | ------ | ------ | ----- |
-| Introduction to Machine Learning | Basic deep learning course with Pytorch framework |Coursera |  [coursera](https://coursera.org/share/228c6d30d86349bab114fb499cea4370)| 2021 |
+| Cloud Digital Leader | GCP Cloud Digital Leader | GCP |  [credly.com](https://www.credly.com/badges/0ed74af8-3d45-47e6-bfa5-f35907333f69/public_url)| 2025-2028 |
+| Generative AI  | Generative AI - The Ultimate Guide! Beginner to Leader in AI | Udemy |  [udemy.com](https://www.udemy.com/certificate/UC-1e270d4b-47bd-46c7-b4ab-426ba221de07/)| 2024 |
 | Basic Kore.AI Chabot Developer | Basic Kore.AI Chatbot Developer Certificate | Kore.AI |  [kore.ai](https://github.com/sudhirln92/sudhirln92/blob/main/Kore.AI-Basic-Training-2021.jpg)| 2021-2023 |
 | Advanced Kore.AI Chabot Developer | Advanced Kore.AI Chatbot Developer Certificate | Kore.AI |  [kore.ai](https://github.com/sudhirln92/sudhirln92/blob/main/Kore.AI-Adavanced-Training-2021.jpg)| 2021-2023 |
-| Generative AI  | Generative AI - The Ultimate Guide! Beginner to Leader in AI | Udemy |  [udemy.com](https://www.udemy.com/certificate/UC-1e270d4b-47bd-46c7-b4ab-426ba221de07/)| 2024 |
-
+| Introduction to Machine Learning | Basic deep learning course with Pytorch framework |Coursera |  [coursera](https://coursera.org/share/228c6d30d86349bab114fb499cea4370)| 2021 |
 
 
 # Internal Certificates ✨
