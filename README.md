@@ -14,7 +14,7 @@
 | ☁️ **Cloud**          | ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)|
 | 🛠️ **Tools**         | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) ![Word](https://img.shields.io/badge/-Word-2B579A?logo=microsoft-word&logoColor=white) ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white) |
 
-# Badges ✨              
+# Badges ✨
 <p align="center">
     <a href="https://www.credly.com/badges/19f888ad-4c75-49e3-8f18-e3ae937c9988/public_url" target="_blank">
       <img src="https://images.credly.com/size/340x340/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob"
