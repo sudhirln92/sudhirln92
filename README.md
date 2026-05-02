@@ -17,20 +17,11 @@
 
 # Badges ✨
 <p align="center">
-    <a href="https://www.credly.com/badges/19f888ad-4c75-49e3-8f18-e3ae937c9988/public_url" target="_blank">
-      <img src="https://images.credly.com/size/340x340/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob"
-      alt="Generative AI Leader" width="150" height="130"/>
-    </a>
-    <a href="https://www.credly.com/badges/0ed74af8-3d45-47e6-bfa5-f35907333f69/public_url" target="_blank">
-      <img src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png?raw=true" alt="Cloud Digital Leader" width="150" height="130"/>
-    </a>
-    <a href="https://www.credly.com/badges/8aa0250d-1e31-4977-9a10-30a58dc249c3/public_url" target="_blank">
-      <img src="https://images.credly.com/size/340x340/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud" width="150" height="130"/>
-    </a>
-    <a href="https://www.credly.com/badges/4db50454-b90c-477e-ae50-436b070bfecd/public_url" target="_blank">
-      <img src="https://images.credly.com/size/340x340/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Cloud" width="150" height="130"/>
-    </a>
-    <img src="https://github.com/sudhirln92/sudhirln92/blob/main/Kore.ai-certified.jpg?raw=true" alt="Kore AI" width="150" height="120"/>
+  <a href="https://www.credly.com/badges/19f888ad-4c75-49e3-8f18-e3ae937c9988/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" alt="Generative AI Leader" width="150" height="130"/></a>&nbsp;
+  <a href="https://www.credly.com/badges/0ed74af8-3d45-47e6-bfa5-f35907333f69/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/44994cda-b5b0-44cb-9a6d-d29b57163073/image.png?raw=true" alt="Cloud Digital Leader" width="150" height="130"/></a>&nbsp;
+  <a href="https://www.credly.com/badges/8aa0250d-1e31-4977-9a10-30a58dc249c3/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud" width="150" height="130"/></a>&nbsp;
+  <a href="https://www.credly.com/badges/4db50454-b90c-477e-ae50-436b070bfecd/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Cloud" width="150" height="130"/></a>&nbsp;
+  <img src="https://github.com/sudhirln92/sudhirln92/blob/main/Kore.ai-certified.jpg?raw=true" alt="Kore AI" width="150" height="120"/>
 </p>
 
 # Profiles ✨
