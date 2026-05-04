@@ -34,9 +34,11 @@
 
 # Certificates ✨
 
+
 | Certifications | Description| Institute | Link | Year|
 | ------ | ------ | ------ | ------ | ----- |
-| Langgraph Essential | Langgraph Essential Python | Langchain |  [academy.langchain.com](https://academy.langchain.com/certificates/djbj976glv)| NA |
+|Introduction to LangGraph  | Foundation: Introduction to LangGraph | Langchain |  [academy.langchain.com](https://academy.langchain.com/certificates/oorlnbfdkc)| 2026 |
+| Langgraph Essential | Langgraph Essential Python | Langchain |  [academy.langchain.com](https://academy.langchain.com/certificates/djbj976glv)| 2026 |
 | Generative AI Leader | GCP Generative AI Leader | GCP |  [credly.com](https://www.credly.com/badges/19f888ad-4c75-49e3-8f18-e3ae937c9988/public_url)| 2025-2028 |
 | Cloud Digital Leader | GCP Cloud Digital Leader | GCP |  [credly.com](https://www.credly.com/badges/0ed74af8-3d45-47e6-bfa5-f35907333f69/public_url)| 2025-2028 |
 | Computer Networking| Introduction to the Computer Networking | simplilearn |  [simplilearn.com](https://simpli-web.app.link/e/ooUrOuvVeXb)| 2025 |
