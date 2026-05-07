@@ -3,6 +3,31 @@
 - 🌱 I’m currently learning Agentic AI and MLOps
 - 📫 How to reach me sudhirln92@gmail.com
 
+# Sudhir Github Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=sudhirln92&label=Profile%20views&color=0e75b6&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhirln92&show_icons=true&theme=radical&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhirln92&layout=compact&theme=radical)
+
+![Total Repos](https://img.shields.io/badge/Total%20Repos-15-blue)
+
+![Followers](https://img.shields.io/github/followers/sudhirln92?label=Followers&style=social)
+
+![Following](https://img.shields.io/badge/Following-58-blue)
+
+![Recent Activity](https://github-readme-stats.vercel.app/api/recent-activity?username=sudhirln92&theme=radical)
+
+![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=sudhirln92&repo=kaggle-competitions&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sudhirln92&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhirln92)
+
+
+
+
 ## 🛠️ Technical Skills  
 
 | **Category**  | **Skills**  |
