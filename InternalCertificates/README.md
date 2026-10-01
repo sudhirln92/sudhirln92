@@ -15,3 +15,5 @@
 | GCP Essentials | GCP Training | Atos | 2023 |
 | Mongo DB | Mongo DB Training | Atos | 2021 |
 | Docker | Docker Training | Atos | 2022 |
+| Computer Networking| Introduction to the Computer Networking |  [simplilearn.com](https://simpli-web.app.link/e/ooUrOuvVeXb)| 2025 |
+| Generative AI  | Generative AI - The Ultimate Guide! Beginner to Leader in AI | [udemy.com](https://www.udemy.com/certificate/UC-1e270d4b-47bd-46c7-b4ab-426ba221de07/)| 2024 |
